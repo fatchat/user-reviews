@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "filereader.h"
+#include "../filereader.h"
 
 int main (int argc, char * argv[])
 {

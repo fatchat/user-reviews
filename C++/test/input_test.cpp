@@ -6,7 +6,7 @@
  */
 
 #include <iostream>
-#include "input.h"
+#include "../input.h"
 
 int main (int argc, char * argv[])
 {
